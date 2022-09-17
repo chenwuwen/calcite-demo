@@ -1,0 +1,394 @@
+[
+    {
+      "id": "1",
+      "student_id": "1",
+      "course_id": "10",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "97"
+    },
+    {
+      "id": "2",
+      "student_id": "1",
+      "course_id": "20",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "66"
+    },
+    {
+      "id": "3",
+      "student_id": "1",
+      "course_id": "30",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "56"
+    },
+    {
+      "id": "4",
+      "student_id": "1",
+      "course_id": "40",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "70"
+    },
+    {
+      "id": "5",
+      "student_id": "1",
+      "course_id": "50",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "90"
+    },
+    {
+      "id": "6",
+      "student_id": "1",
+      "course_id": "60",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "88"
+    },
+    {
+      "id": "7",
+      "student_id": "1",
+      "course_id": "70",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "76"
+    },
+    {
+      "id": "8",
+      "student_id": "2",
+      "course_id": "10",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "53"
+    },
+    {
+      "id": "9",
+      "student_id": "2",
+      "course_id": "20",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "29"
+    },
+    {
+      "id": "10",
+      "student_id": "2",
+      "course_id": "30",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "33"
+    },
+    {
+      "id": "11",
+      "student_id": "2",
+      "course_id": "40",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "27"
+    },
+    {
+      "id": "12",
+      "student_id": "2",
+      "course_id": "50",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "22"
+    },
+    {
+      "id": "13",
+      "student_id": "2",
+      "course_id": "60",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "43"
+    },
+    {
+      "id": "14",
+      "student_id": "2",
+      "course_id": "70",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "55"
+    },
+    {
+      "id": "15",
+      "student_id": "3",
+      "course_id": "10",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "89"
+    },
+    {
+      "id": "16",
+      "student_id": "3",
+      "course_id": "20",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "53"
+    },
+    {
+      "id": "17",
+      "student_id": "3",
+      "course_id": "30",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "99"
+    },
+    {
+      "id": "18",
+      "student_id": "3",
+      "course_id": "40",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "67"
+    },
+    {
+      "id": "19",
+      "student_id": "3",
+      "course_id": "50",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "89"
+    },
+    {
+      "id": "20",
+      "student_id": "3",
+      "course_id": "60",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "2"
+    },
+    {
+      "id": "21",
+      "student_id": "3",
+      "course_id": "70",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "0"
+    },
+    {
+      "id": "29",
+      "student_id": "4",
+      "course_id": "10",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "99"
+    },
+    {
+      "id": "30",
+      "student_id": "4",
+      "course_id": "20",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "98"
+    },
+    {
+      "id": "31",
+      "student_id": "4",
+      "course_id": "30",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "100"
+    },
+    {
+      "id": "32",
+      "student_id": "4",
+      "course_id": "40",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "92"
+    },
+    {
+      "id": "33",
+      "student_id": "4",
+      "course_id": "50",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "96"
+    },
+    {
+      "id": "34",
+      "student_id": "4",
+      "course_id": "60",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "99"
+    },
+    {
+      "id": "35",
+      "student_id": "4",
+      "course_id": "70",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "97"
+    },
+    {
+      "id": "36",
+      "student_id": "5",
+      "course_id": "10",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "61"
+    },
+    {
+      "id": "37",
+      "student_id": "5",
+      "course_id": "20",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "63"
+    },
+    {
+      "id": "38",
+      "student_id": "5",
+      "course_id": "30",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "82"
+    },
+    {
+      "id": "39",
+      "student_id": "5",
+      "course_id": "40",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "77"
+    },
+    {
+      "id": "40",
+      "student_id": "5",
+      "course_id": "50",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "72"
+    },
+    {
+      "id": "41",
+      "student_id": "5",
+      "course_id": "60",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "69"
+    },
+    {
+      "id": "42",
+      "student_id": "5",
+      "course_id": "70",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "67"
+    },
+    {
+      "id": "43",
+      "student_id": "6",
+      "course_id": "10",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "83"
+    },
+    {
+      "id": "44",
+      "student_id": "6",
+      "course_id": "20",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "79"
+    },
+    {
+      "id": "45",
+      "student_id": "6",
+      "course_id": "30",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "77"
+    },
+    {
+      "id": "46",
+      "student_id": "6",
+      "course_id": "40",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "89"
+    },
+    {
+      "id": "47",
+      "student_id": "6",
+      "course_id": "50",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "83"
+    },
+    {
+      "id": "48",
+      "student_id": "6",
+      "course_id": "60",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "87"
+    },
+    {
+      "id": "49",
+      "student_id": "6",
+      "course_id": "70",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "71"
+    },
+    {
+      "id": "50",
+      "student_id": "7",
+      "course_id": "10",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "93"
+    },
+    {
+      "id": "51",
+      "student_id": "7",
+      "course_id": "20",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "89"
+    },
+    {
+      "id": "52",
+      "student_id": "7",
+      "course_id": "30",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "88"
+    },
+    {
+      "id": "53",
+      "student_id": "7",
+      "course_id": "40",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "91"
+    },
+    {
+      "id": "54",
+      "student_id": "7",
+      "course_id": "50",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "92"
+    },
+    {
+      "id": "55",
+      "student_id": "7",
+      "course_id": "60",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "90"
+    },
+    {
+      "id": "56",
+      "student_id": "7",
+      "course_id": "70",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "83"
+    },
+    {
+      "id": "57",
+      "student_id": "8",
+      "course_id": "10",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "100"
+    },
+    {
+      "id": "58",
+      "student_id": "8",
+      "course_id": "20",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "99"
+    },
+    {
+      "id": "59",
+      "student_id": "8",
+      "course_id": "30",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "89"
+    },
+    {
+      "id": "60",
+      "student_id": "8",
+      "course_id": "40",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "96"
+    },
+    {
+      "id": "61",
+      "student_id": "8",
+      "course_id": "50",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "94"
+    },
+    {
+      "id": "62",
+      "student_id": "8",
+      "course_id": "60",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "92"
+    },
+    {
+      "id": "63",
+      "student_id": "8",
+      "course_id": "70",
+      "start_time": "1/9/2017 00:00:00",
+      "score": "93"
+    }
+  ]

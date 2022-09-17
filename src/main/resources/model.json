@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "defaultSchema": "JsonDB",
+  "schemas": [
+    {
+      "name": "JsonDB",
+      "type": "custom",
+      "factory": "com.kanyun.calcite.schema.JsonSchemaFactory",
+      "operand": {
+        "directory": "classPath:tables/"
+      }
+    }
+  ]
+}
